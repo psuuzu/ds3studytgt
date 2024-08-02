@@ -1,6 +1,4 @@
 password: michaeldaboss
 username: hi
 
-ssss
-
-Hello paul
+email: michaeldaboss.gmail.com
